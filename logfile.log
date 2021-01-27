@@ -1,0 +1,59 @@
+2021-01-21 18:25:08,673 INFO  [Log] Application is opened 
+2021-01-21 18:25:18,942 INFO  [Log] login completed 
+2021-01-21 18:25:22,657 INFO  [Log] logout completed 
+2021-01-21 18:25:30,214 INFO  [Log] Application is closed 
+2021-01-21 18:35:07,384 INFO  [Log] Application is opened 
+2021-01-21 18:35:19,487 INFO  [Log] login completed 
+2021-01-21 18:35:35,829 INFO  [Log] logout completed 
+2021-01-21 18:35:42,572 INFO  [Log] Application is closed 
+2021-01-21 18:36:59,849 INFO  [Log] Application is opened 
+2021-01-21 18:37:07,748 INFO  [Log] login completed 
+2021-01-21 18:37:18,695 INFO  [Log] New Employee Added 
+2021-01-21 18:37:22,319 INFO  [Log] logout completed 
+2021-01-21 18:37:27,242 INFO  [Log] Application is closed 
+2021-01-21 18:55:08,382 INFO  [Log] Application is opened 
+2021-01-21 18:55:19,951 INFO  [Log] login completed 
+2021-01-21 19:05:09,243 INFO  [Log] Application is opened 
+2021-01-21 19:05:34,405 INFO  [Log] login completed 
+2021-01-21 19:07:33,937 INFO  [Log] Application is opened 
+2021-01-21 19:07:42,183 INFO  [Log] login completed 
+2021-01-21 19:11:51,844 INFO  [Log] Application is opened 
+2021-01-21 19:12:01,299 INFO  [Log] login completed 
+2021-01-21 19:16:05,723 INFO  [Log] Application is opened 
+2021-01-21 19:16:13,802 INFO  [Log] login completed 
+2021-01-21 19:20:29,309 INFO  [Log] Application is opened 
+2021-01-21 19:20:37,638 INFO  [Log] login completed 
+2021-01-21 19:25:02,225 INFO  [Log] Application is opened 
+2021-01-21 19:25:10,071 INFO  [Log] login completed 
+2021-01-21 19:25:55,799 INFO  [Log] Application is opened 
+2021-01-21 19:26:03,716 INFO  [Log] login completed 
+2021-01-21 19:32:41,878 INFO  [Log] Application is opened 
+2021-01-21 19:32:49,843 INFO  [Log] login completed 
+2021-01-21 19:42:14,902 INFO  [Log] Application is opened 
+2021-01-21 19:42:22,585 INFO  [Log] login completed 
+2021-01-21 19:43:41,817 INFO  [Log] Application is opened 
+2021-01-21 19:43:51,430 INFO  [Log] login completed 
+2021-01-21 19:45:53,846 INFO  [Log] Application is opened 
+2021-01-21 19:46:03,140 INFO  [Log] login completed 
+2021-01-23 12:40:19,850 INFO  [Log] Application is opened 
+2021-01-23 12:40:38,807 INFO  [Log] login completed 
+2021-01-23 16:38:44,039 INFO  [Log] Application is opened 
+2021-01-23 16:38:53,274 INFO  [Log] login completed 
+2021-01-27 15:05:40,746 INFO  [Log] Application is opened 
+2021-01-27 15:05:49,858 INFO  [Log] login completed 
+2021-01-27 15:05:53,849 INFO  [Log] logout completed 
+2021-01-27 15:06:03,937 INFO  [Log] Application is closed 
+2021-01-27 15:08:00,162 INFO  [Log] Application is opened 
+2021-01-27 15:08:09,723 INFO  [Log] login completed 
+2021-01-27 15:08:25,422 INFO  [Log] New Employee Added 
+2021-01-27 15:08:29,177 INFO  [Log] logout completed 
+2021-01-27 15:08:34,522 INFO  [Log] Application is closed 
+2021-01-27 15:09:53,029 INFO  [Log] Application is opened 
+2021-01-27 15:10:03,196 INFO  [Log] login completed 
+2021-01-27 15:10:15,111 INFO  [Log] New Employee Added 
+2021-01-27 15:10:18,770 INFO  [Log] logout completed 
+2021-01-27 15:10:25,310 INFO  [Log] Application is closed 
+2021-01-27 15:17:06,340 INFO  [Log] Application is opened 
+2021-01-27 15:17:35,436 INFO  [Log] login completed 
+2021-01-27 15:17:38,981 INFO  [Log] logout completed 
+2021-01-27 15:17:47,001 INFO  [Log] Application is closed 
